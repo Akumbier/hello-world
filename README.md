@@ -1,13 +1,13 @@
 # hello-world
 <Html>
 <head>
-Title
+Barry and Bonnies Baseball Shop
 </head>
 <!--Alexander Kumbier, MGMT 382, Section 002, 1:30-2:45 on T-TH-->
 <body>
-<h1 style="Color:E34B4B;Font-Family:Sans-Serif;Padding:5px"><b><u>History</b></u></h1>
+<h1 style="Color:E34B4B;Font-Family:Sans-Serif;Padding:5px"><b><u>Old Times</b></u></h1>
 <ol>
-<li><h2 style=Color:5375FF;Font-family:times;"><b>Founders</b></h1>
+<li><h2 style=Color:5375FF;Font-family:times;"><b>Team</b></h1>
 <img src="barry-bonds-9542459-1-402.jpg" Style="Float:right;width:250px;Height:300px;padding:5px;">
 <img src="Bonnie Wright.jpg" Style="Float:right;width:250px;Height:300px;padding:5px;">
 <p Style="Font-size:+20;Font-Family:Courier">
