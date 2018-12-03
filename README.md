@@ -1,8 +1,7 @@
 # hello-world
 <Html>
 <head>
-Title
- 
+Barry and Bonnies Baseball Shop
 </head>
 <!--Alexander Kumbier, MGMT 382, Section 002, 1:30-2:45 on T-TH-->
 <body>
